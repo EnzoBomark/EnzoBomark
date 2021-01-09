@@ -9,4 +9,3 @@ This is Enzo, he is a developer whos love for problem solving and design just sh
 -  Fun fact: Im not a good storyteller📜
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/EnzoBomark=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
