@@ -59,7 +59,6 @@
   <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
   <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&style=flat-square&logo=GraphQL" />
   <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=Firebase" />
-  <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&style=flat-square&logo=Apollo GraphQL" />
   <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
 </p>
 
