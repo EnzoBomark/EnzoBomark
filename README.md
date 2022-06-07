@@ -1,4 +1,4 @@
-### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  height="25px" >
+### Welcome!👋
 
 <h3>I'm a Creative Fullstack Developer/Software Engineer</h3>
 
