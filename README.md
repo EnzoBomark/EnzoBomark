@@ -16,19 +16,11 @@
 
 ---
 
-### What I work with
+### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBomark&&theme=github_dark&&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
----
-
-<!-- ### Articles & Notes -->
-
-
-<br/>
-
-### Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoBomark&theme=holi-theme)
 
