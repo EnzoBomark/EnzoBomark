@@ -4,11 +4,6 @@
 
 - 📚  I'm currently learning Rust 🦀
 - 👨🏻‍🍳  I like cooking!
-- 🎯  2022 Goals
-  - Graduate! 🎓
-  - Try out Webassembly
-  - Try out Svelte & Flutter
-  - Create a hooby project in Rust 
 
 
 #### Connect with me
